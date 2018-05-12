@@ -1,0 +1,9 @@
+{
+  "name": "mern-comment-box",
+  "version": "1.0.0",
+  "description": "This is a facebook like comment box",
+  "main": "index.js",
+  "repository": "https://github.com/saurabhchawla/mern-comment-box-practice.git",
+  "author": "Saurabh Chawla",
+  "license": "MIT"
+}
